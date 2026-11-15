@@ -1,6 +1,7 @@
 # Cartoon Memories — Os Simpsons
 
 Projeto acadêmico de Front-End desenvolvido com HTML, CSS e JavaScript puro.
+pages: https://becagc-dev.github.io/cartoon-memories-simpsons/
 
 ## Como executar
 1. Extraia a pasta `cartoon_memories`.
